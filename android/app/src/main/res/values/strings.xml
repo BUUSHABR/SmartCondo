@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Facility</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+    <string name="accept">Video</string>
+    <string name="decline">Decline</string>
+</resources>
+    

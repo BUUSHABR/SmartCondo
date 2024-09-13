@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>app.smartBuildings</string>
+	</array>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Smart Facility</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>FIRAnalyticsDebugEnabled</key>
+	<string>No</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<true/>
+	<key>FirebaseScreenReportingEnabled</key>
+	<string>No</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict/>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Need bluetooth permission for contactless checkin to function properly</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Need bluetooth permission for contactless checkin to function properly</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Your message to user when the camera is accessed for the first time</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Allow smartcondo to access phone book to prefill visitor details </string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Your location is required for touchless entry</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Your message to user when the microphone is accessed for the first time</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Your message to user when the camera is accessed for the first time</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Montserrat-Bold.ttf</string>
+		<string>Montserrat-ExtraLight.ttf</string>
+		<string>Montserrat-Light.ttf</string>
+		<string>Montserrat-Medium.ttf</string>
+		<string>Montserrat-Regular.ttf</string>
+		<string>Montserrat-SemiBold.ttf</string>
+		<string>bluetooth-peripheral</string>
+		<string>Montserrat-Black.ttf</string>
+		<string>Montserrat-ExtraBold.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+		<string>bluetooth-peripheral</string>
+		<string>fetch</string>
+		<string>processing</string>
+		<string>remote-notification</string>
+		<string>voip</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+		<string>arm64</string>
+		<string>bluetooth-le</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportsDocumentBrowser</key>
+	<true/>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

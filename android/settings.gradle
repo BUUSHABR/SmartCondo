@@ -1,0 +1,40 @@
+rootProject.name = 'SmartBuildings'
+include ':sp-react-native-in-app-updates'
+project(':sp-react-native-in-app-updates').projectDir = new File(rootProject.projectDir, '../node_modules/sp-react-native-in-app-updates/android')
+include ':sp-react-native-in-app-updates'
+project(':sp-react-native-in-app-updates').projectDir = new File(rootProject.projectDir, '../node_modules/sp-react-native-in-app-updates/android')
+include ':react-native-share'
+project(':react-native-share').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-share/android')
+include ':react-native-share'
+project(':react-native-share').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-share/android')
+include ':react-native-svg'
+project(':react-native-svg').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-svg/android')
+include ':react-native-action-sheet'
+project(':react-native-action-sheet').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-action-sheet/android')
+include ':@react-native-community_checkbox'
+project(':@react-native-community_checkbox').projectDir = new File(rootProject.projectDir, '../node_modules/@react-native-community/checkbox/android')
+include ':react-native-screen-brightness'
+project(':react-native-screen-brightness').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-screen-brightness/android')
+include ':react-native-location-switch'
+project(':react-native-location-switch').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-location-switch/android')
+include ':react-native-screen-brightness'
+project(':react-native-screen-brightness').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-screen-brightness/android')
+include ':react-native-callkeep'
+project(':react-native-callkeep').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-callkeep/android')
+include ':react-native-callkeep'
+project(':react-native-callkeep').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-callkeep/android')
+include ':react-native-device-brightness'
+project(':react-native-device-brightness').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-device-brightness/android')
+include ':react-native-twilio-video-webrtc'
+project(':react-native-twilio-video-webrtc').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-twilio-video-webrtc/android')
+include ':react-native-twilio-video-webrtc'
+project(':react-native-twilio-video-webrtc').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-twilio-video-webrtc/android')
+include ':react-native-twilio-video-webrtc'
+project(':react-native-twilio-video-webrtc').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-twilio-video-webrtc/android')
+include ':react-native-webview'
+project(':react-native-webview').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-webview/android')
+include ':@react-native-firebase_analytics'
+project(':@react-native-firebase_analytics').projectDir = new File(rootProject.projectDir, './../node_modules/@react-native-firebase/analytics/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+
+include ':app'

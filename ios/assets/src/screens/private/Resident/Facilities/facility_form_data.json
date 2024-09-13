@@ -1,0 +1,237 @@
+{
+    "tennis_court": {
+        "heading": "Tennis Court",
+        "start_date": {
+            "name": "start_date",
+            "label": "Select Booking Date",
+            "value": "",
+            "show": true
+        },
+        "start_time": {
+            "name": "start_time",
+            "label": "Start Time",
+            "value": "",
+            "show": true
+        },
+        "end_time": {
+            "name": "end_time",
+            "label": "End Time",
+            "value": "",
+            "show": true
+        },
+        "comment": {
+            "name": "comment",
+            "label": "Comment",
+            "value": "",
+            "show": true
+        },
+        "court": {
+            "name": "court",
+            "label": "Select your court",
+            "value": "",
+            "show": true,
+            "arr": [
+                {
+                    "label": "Court1",
+                    "value": "court1"
+                },
+                {
+                    "label": "Court2",
+                    "value": "court2"
+                },
+                {
+                    "label": "Court3",
+                    "value": "court3"
+                }
+            ]
+        }
+    },
+    "function_hall": {
+        "heading": "Function Hall",
+        "start_date": {
+            "name": "start_date",
+            "label": "Select Booking Date",
+            "value": "",
+            "show": true
+        },
+        "start_time": {
+            "name": "start_time",
+            "label": "Start Time",
+            "value": "",
+            "show": true
+        },
+        "end_time": {
+            "name": "end_time",
+            "label": "End Time",
+            "value": "",
+            "show": true
+        },
+        "comment": {
+            "name": "comment",
+            "label": "Comment",
+            "value": "",
+            "show": true
+        },
+        "court": {
+            "name": "court",
+            "label": "Select your court",
+            "value": "",
+            "show": true,
+            "arr": [
+                {
+                    "label": "Court1",
+                    "value": "court1"
+                },
+                {
+                    "label": "Court2",
+                    "value": "court2"
+                },
+                {
+                    "label": "Court3",
+                    "value": "court3"
+                }
+            ]
+        }
+    },
+    "gym_room": {
+        "heading": "Gym Room",
+        "start_date": {
+            "name": "start_date",
+            "label": "Select Booking Date",
+            "value": "",
+            "show": true
+        },
+        "start_time": {
+            "name": "start_time",
+            "label": "Start Time",
+            "value": "",
+            "show": true
+        },
+        "end_time": {
+            "name": "end_time",
+            "label": "End Time",
+            "value": "",
+            "show": true
+        },
+        "comment": {
+            "name": "comment",
+            "label": "Comment",
+            "value": "",
+            "show": true
+        },
+        "court": {
+            "name": "court",
+            "label": "Select your court",
+            "value": "",
+            "show": true,
+            "arr": [
+                {
+                    "label": "Court1",
+                    "value": "court1"
+                },
+                {
+                    "label": "Court2",
+                    "value": "court2"
+                },
+                {
+                    "label": "Court3",
+                    "value": "court3"
+                }
+            ]
+        }
+    },
+    "basketball_court": {
+        "heading": "Basketball Court",
+        "start_date": {
+            "name": "start_date",
+            "label": "Select Booking Date",
+            "value": "",
+            "show": true
+        },
+        "start_time": {
+            "name": "start_time",
+            "label": "Start Time",
+            "value": "",
+            "show": true
+        },
+        "end_time": {
+            "name": "end_time",
+            "label": "End Time",
+            "value": "",
+            "show": true
+        },
+        "comment": {
+            "name": "comment",
+            "label": "Comment",
+            "value": "",
+            "show": true
+        },
+        "court": {
+            "name": "court",
+            "label": "Select your court",
+            "value": "",
+            "show": true,
+            "arr": [
+                {
+                    "label": "Court1",
+                    "value": "court1"
+                },
+                {
+                    "label": "Court2",
+                    "value": "court2"
+                },
+                {
+                    "label": "Court3",
+                    "value": "court3"
+                }
+            ]
+        }
+    },
+    "golf_court": {
+        "heading": "Golf Court",
+        "start_date": {
+            "name": "start_date",
+            "label": "Select Booking Date",
+            "value": "",
+            "show": true
+        },
+        "start_time": {
+            "name": "start_time",
+            "label": "Start Time",
+            "value": "",
+            "show": true
+        },
+        "end_time": {
+            "name": "booking_date",
+            "label": "End Time",
+            "value": "",
+            "show": true
+        },
+        "comment": {
+            "name": "comment",
+            "label": "Comment",
+            "value": "",
+            "show": true
+        },
+        "court": {
+            "name": "court",
+            "label": "Select your court",
+            "value": "",
+            "show": true,
+            "arr": [
+                {
+                    "label": "Court1",
+                    "value": "court1"
+                },
+                {
+                    "label": "Court2",
+                    "value": "court2"
+                },
+                {
+                    "label": "Court3",
+                    "value": "court3"
+                }
+            ]
+        }
+    }
+}

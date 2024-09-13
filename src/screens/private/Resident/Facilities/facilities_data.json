@@ -1,0 +1,22 @@
+[
+    {
+        "name": "tennis_court",
+        "label": "Tennis Court"
+    },
+    {
+        "name": "function_hall",
+        "label": "Function Hall"
+    },
+    {
+        "name": "gym_room",
+        "label": "Gym Room"
+    },
+    {
+        "name": "basketball_court",
+        "label": "Basketball Court"
+    },
+    {
+        "name": "golf_court",
+        "label": "Golf Court"
+    }
+]

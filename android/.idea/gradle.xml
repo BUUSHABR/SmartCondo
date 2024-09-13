@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="zulu-11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-clipboard/clipboard/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-community/blur/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-community/checkbox/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-community/datetimepicker/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-community/netinfo/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-community/picker/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-firebase/analytics/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-firebase/app/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-firebase/crashlytics/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-firebase/messaging/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-firebase/remote-config/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-masked-view/masked-view/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@teamdotworld/rn-ble-advertiser/android" />
+            <option value="$PROJECT_DIR$/../node_modules/lottie-react-native/src/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-action-sheet/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-autostart/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-blob-util/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-bluetooth-status/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-blur-overlay/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-callkeep/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-device-brightness/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-device-info/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-fast-image/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-geolocation-service/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-image-crop-picker/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-location-switch/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-pager-view/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-pdf/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-permissions/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-reanimated/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-screen-brightness/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-screens/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-select-contact/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-share/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-sound/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-svg/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-twilio-video-webrtc/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-version-check/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-version-info/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-webview/android" />
+            <option value="$PROJECT_DIR$/../node_modules/rn-android-overlay-permission/android" />
+            <option value="$PROJECT_DIR$/../node_modules/sp-react-native-in-app-updates/android" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

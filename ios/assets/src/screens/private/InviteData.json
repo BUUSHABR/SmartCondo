@@ -1,0 +1,281 @@
+{
+    "Visitor": {
+        "header": "Guest Details",
+        "subHead": "Sending a pleasant invite to my guest",
+        "addTitle": "Accompanied Visitor",
+        "visiting_time": {
+            "label": "",
+            "field": "",
+            "show": true
+        },
+        "name": {
+            "field": "name",
+            "label": "Name",
+            "show": true
+        },
+        "phone": {
+            "field": "phone",
+            "label": "Mobile Number",
+            "show": true
+        },
+        "sub_visitor": {
+            "field": "sub_visitor",
+            "label": "",
+            "show": false
+        },
+        "company": {
+            "field": "company",
+            "label": "Company Name",
+            "show": false
+        },
+        "vehicle_number": {
+            "field": "vehicle_number",
+            "label": "Vehicle Number",
+            "show": true
+        },
+        "remarks": {
+            "field": "remarks",
+            "label": "Notes",
+            "show": true
+        },
+        "no_of_visitor": {
+            "field": "no_of_visitor",
+            "label": "Number of Visitor",
+            "show": true
+        },
+        "attachment": {
+            "field": "Attachment",
+            "label": "Attachment",
+            "show": false
+        },
+        "datepicker":{
+            "show":true
+        },
+        "textName":{
+            "show":false
+        }
+    },
+    "Contractor": {
+        "header": "Contractor Details",
+        "subHead": "Sending a invite to the contractor",
+        "addTitle": "Accompanied Contractor",
+        "visiting_time": {
+            "label": "",
+            "field": "",
+            "show": true
+        },
+        "name": {
+            "field": "name",
+            "label": "Name",
+            "show": true
+        },
+        "phone": {
+            "field": "phone",
+            "label": "Mobile Number",
+            "show": true
+        },
+        "sub_visitor": {
+            "field": "sub_visitor",
+            "label": "Type of Contractor",
+            "show": true
+        },
+        "vehicle_number": {
+            "field": "vehicle_number",
+            "label": "Vehicle Number",
+            "show": true
+        },
+        "company": {
+            "field": "company",
+            "label": "Company Name",
+            "show": true
+        },
+        "remarks": {
+            "field": "remarks",
+            "label": "Notes",
+            "show": true
+        },
+        "no_of_visitor": {
+            "field": "no_of_visitor",
+            "label": "Number of Contractor",
+            "show": true
+        },
+        "attachment": {
+            "field": "Attachment",
+            "label": "Attachment",
+            "show": true
+        },
+        "datepicker":{
+            "show":true
+        },
+        "textName":{
+            "show":false
+        }
+    },
+    "Delivery": {
+        "header": "Delivery Details",
+        "subHead": "Expecting my item to be delivered",
+        "addTitle": "",
+        "visiting_time": {
+            "label": "",
+            "field": "",
+            "show": true
+        },
+        "name": {
+            "field": "name",
+            "label": "Name",
+            "show": true
+        },
+        "phone": {
+            "field": "phone",
+            "label": "Mobile Number",
+            "show": true
+        },
+        "sub_visitor": {
+            "field": "sub_visitor",
+            "label": "Delivery Type",
+            "show": true
+        },
+        "vehicle_number": {
+            "field": "vehicle_number",
+            "label": "Vehicle Number",
+            "show": true
+        },
+        "company": {
+            "field": "company",
+            "label": "Company Name",
+            "show": false
+        },
+        "remarks": {
+            "field": "remarks",
+            "label": "Notes",
+            "show": true
+        },
+        "no_of_visitor": {
+            "field": "no_of_visitor",
+            "label": "Number of Visitor",
+            "show": false
+        },
+        "attachment": {
+            "field": "Attachment",
+            "label": "Attachment",
+            "show": false
+        },
+        "datepicker":{
+            "show":true
+        },
+        "textName":{
+            "show":false
+        }
+    },
+    "Pickup / Drop": {
+        "header": "Pickup / Drop Details",
+        "subHead": "I’m waiting for my cab arrival",
+        "addTitle": "",
+        "visiting_time": {
+            "label": "",
+            "field": "",
+            "show": true
+        },
+        "name": {
+            "field": "name",
+            "label": "Name",
+            "show": true
+        },
+        "phone": {
+            "field": "phone",
+            "label": "Mobile Number",
+            "show": true
+        },
+        "sub_visitor": {
+            "field": "sub_visitor",
+            "label": "Pickup / Drop Type",
+            "show": true
+        },
+        "vehicle_number": {
+            "field": "vehicle_number",
+            "label": "Vehicle Number",
+            "show": true
+        },
+        "company": {
+            "field": "company",
+            "label": "Company Name",
+            "show": false
+        },
+        "remarks": {
+            "field": "remarks",
+            "label": "Notes",
+            "show": true
+        },
+        "no_of_visitor": {
+            "field": "no_of_visitor",
+            "label": "Number of Visitor",
+            "show": false
+        },
+        "attachment": {
+            "field": "Attachment",
+            "label": "Attachment",
+            "show": false
+        },
+        "datepicker":{
+            "show":true
+        },
+        "textName":{
+            "show":false
+        }
+    },
+    "SelfInvite": {
+        "header": "Self Invite Details",
+        "addTitle": "",
+        "visiting_time": {
+            "label": "",
+            "field": "",
+            "show": false
+        },
+        "name": {
+            "field": "name",
+            "label": "Name",
+            "show": false
+        },
+        "phone": {
+            "field": "phone",
+            "label": "Mobile Number",
+            "show": false
+        },
+        "sub_visitor": {
+            "field": "sub_visitor",
+            "label": "Delivery Type",
+            "show": false
+        },
+        "vehicle_number": {
+            "field": "vehicle_number",
+            "label": "Vehicle Number",
+            "show": true
+        },
+        "company": {
+            "field": "company",
+            "label": "Company Name",
+            "show": false
+        },
+        "remarks": {
+            "field": "remarks",
+            "label": "Notes",
+            "show": false
+        },
+        "no_of_visitor": {
+            "field": "no_of_visitor",
+            "label": "Number of Visitor",
+            "show": false
+        },
+        "attachment": {
+            "field": "Attachment",
+            "label": "Attachment",
+            "show": false
+        },
+        "datepicker":{
+            "show":false
+        },
+        "textName":{
+            "show":true
+        }
+    }
+}

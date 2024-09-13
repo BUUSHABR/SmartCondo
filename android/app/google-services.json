@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673728813168",
+    "project_id": "smart-facility-app",
+    "storage_bucket": "smart-facility-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673728813168:android:1e021e3f5bad4d36fa3cb5",
+        "android_client_info": {
+          "package_name": "one.splus.smartcondo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSzum4smT_DQoBjNbvUgM6WKmLiw_RmOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
